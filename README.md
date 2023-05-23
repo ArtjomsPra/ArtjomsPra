@@ -21,7 +21,7 @@ My main passion is to grow as a developer, I am open to challenges and opportuni
 
 My projects:
 
-[News website](https://github.com/ArtjomsPra/Articles) PHP language project about news with users comments and profiles. Using API, MVC pattern, Twig template.
+[News website](https://github.com/ArtjomsPra/NewsSite) PHP language project about news with users comments and profiles. Using API, MVC pattern, Twig template.
 
 [Rick and Morty characters](https://github.com/ArtjomsPra/RickAndMorty) PHP language project where you can browse information about characters from Rick and Morty anime. Using MVC pattern, implementation of routing, cache, twig template.
 
